@@ -125,3 +125,6 @@ plt.show()
 
 # 11. 输出准确率
 print(f"Test Accuracy: {acc:.2f}")
+![微信图片_20250410204330](https://github.com/user-attachments/assets/5b961af0-6b76-4bfb-8d9c-dc87d02cca92)
+![微信图片_20250410204323](https://github.com/user-attachments/assets/226e022a-a13b-4fee-b4e6-49df8dc8975a)
+![微信图片_20250410204305](https://github.com/user-attachments/assets/f6c6edcd-ad2a-4168-8418-73593bb0e98f)
