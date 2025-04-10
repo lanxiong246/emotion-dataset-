@@ -1,5 +1,5 @@
 # emotion-dataset-
-处理中英文数据集，用RNN和DEEPSEEK模型对比参数
+处理中英文数据集，用LSTM模型和DEEPSEEK模型对比参数
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
